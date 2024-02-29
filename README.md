@@ -1,3 +1,3 @@
-#Responsive Landing Page
+#ResponsiveLandingPage
 
-##Technologies Used
+##TechnologiesUsed
